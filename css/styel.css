@@ -1,0 +1,71 @@
+.nav-link {
+    font-size: 32px !important;
+    color: black;
+}
+.bangla{
+    margin-right:-45px;
+    margin-top:-150px;
+}
+
+.carousel-indicators [data-bs-target] {
+    height: 12px;
+    width: 35px;
+    border: 0;
+    border-radius: 10px;
+background-color: #ffa032;
+}
+
+.carousel-indicators .active{
+    width: 50px;
+}
+.fetured-sectiion-1{
+    margin: 120px 0px;
+}
+.fetured-sectiion a{
+    text-decoration: none;
+    color: #ffa032;
+    font-size: 27px;
+    font-weight: 600;
+}
+.images{
+    object-fit: cover;
+ height: 431.75px;
+}
+.imagess{
+    object-fit: cover;
+    height: 455px;
+}
+.btn-outline-dark{
+    --bs-btn-hover-color: #15b7f5;
+}
+.images-Laptop-1st{
+    object-fit: cover;
+    height: 432px;
+}
+.category-section{
+    padding: 0px 180px;
+}
+
+.category-section span{
+    display: block;
+    background: rgb(255,160,50);
+background: linear-gradient(90deg, rgba(255,160,50,1) 0%, rgba(255,149,50,1) 31%, rgba(255,249,50,0.4990371148459384) 100%);
+    height: 10px;
+    width: 175px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.bbs{
+    text-decoration: none;
+    color: #ffa032;
+    padding: 40px;
+    display: block;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+.bbs img{
+    margin: auto;
+    display: block;
+}
+
